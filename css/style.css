@@ -1,13 +1,15 @@
-.sidenav{
-  /*background: cyan;
-  height: 480px;*/
+.carousel-inner{
+  margin-bottom: 20px;
 }
-.content{
-  /*background: magenta;
-  height: 480px;*/
+.carousel-inner>item{
+  width:100%;
 }
+
 @media (max-width:991px){
   #categorias{
-    visibility: hidden;
+    display: none;
+  }
+  form{
+    margin-bottom: 20px;
   }
 }
