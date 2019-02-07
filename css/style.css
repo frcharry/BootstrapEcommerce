@@ -1,0 +1,13 @@
+.sidenav{
+  /*background: cyan;
+  height: 480px;*/
+}
+.content{
+  /*background: magenta;
+  height: 480px;*/
+}
+@media (max-width:991px){
+  #categorias{
+    visibility: hidden;
+  }
+}
