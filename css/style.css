@@ -20,4 +20,10 @@
   form{
     margin-bottom: 20px;
   }
+  .gallery h4{
+    font-size: 14px;
+  }
+  .gallery p{
+    font-size: 12px;
+  }
 }
