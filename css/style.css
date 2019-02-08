@@ -4,7 +4,15 @@
 .carousel-inner>item{
   width:100%;
 }
-
+.panel{
+  margin-top: 10px;
+}
+#descripcion > p{
+  padding-top: 10px;
+}
+.deseos{
+  padding-top: 10px;
+}
 @media (max-width:991px){
   #categorias{
     display: none;
